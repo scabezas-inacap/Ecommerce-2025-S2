@@ -11,3 +11,10 @@ Ecommerce
 ```bash
 /src/Core/Context/CurrencyContextBuilder.php
 ```
+Borrar la cache (Eliminar el contenido de):
+```bash
+var/cache/prod/
+```
+```bash
+var/cache/dev/
+```
